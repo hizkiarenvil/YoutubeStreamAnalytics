@@ -50,5 +50,10 @@ Run the main script to start the data processing pipeline:
 ```sh
 python YoutubeAnalytics.py
 ```
-##How to Contribute
+## How to Contribute
 Contributions to YoutubeStreamAnalytics are welcome! Whether it's bug fixes, new features, or improvements to the documentation, your help is appreciated. Please feel free to fork the repository and submit pull requests.
+
+## Acknowledgments
+Special thanks to the Apache Kafka project for the streaming platform.
+Gratitude to the YouTube Data API for providing access to video metrics.
+Inspired by the YoutubeAnalytics project by Yusuf Ganiyu (https://www.youtube.com/watch?v=0aqSjJ3-4NI&list=PL_Ct8Cox2p8VUtmhZYNpGE_yFORZDi_nY) , which provided valuable insights and inspiration for this project.
