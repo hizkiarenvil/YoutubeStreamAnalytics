@@ -33,7 +33,22 @@ YoutubeStreamAnalytics is an advanced data pipeline that extracts YouTube video 
 git clone https://github.com/hizkiarenvil/YoutubeStreamAnalytics.git
 ```
 Navigate to the project directory:
-```
+```sh
 cd YoutubeStreamAnalytics
 ```
+Install the required Python packages:
+```sh
+pip install -r requirements.txt
+```
+Configure your environment by updating the config/config.local file with your GCP YouTube API key and other necessary settings.
 
+Start the Confluent Platform using Docker Compose:
+```sh
+docker-compose up -d
+```
+Run the main script to start the data processing pipeline:
+```sh
+python YoutubeAnalytics.py
+```
+##How to Contribute
+Contributions to YoutubeStreamAnalytics are welcome! Whether it's bug fixes, new features, or improvements to the documentation, your help is appreciated. Please feel free to fork the repository and submit pull requests.
