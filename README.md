@@ -31,5 +31,9 @@ YoutubeStreamAnalytics is an advanced data pipeline that extracts YouTube video 
 
 ```sh
 git clone https://github.com/hizkiarenvil/YoutubeStreamAnalytics.git
-
+```
+Navigate to the project directory:
+```
+cd YoutubeStreamAnalytics
+```
 
