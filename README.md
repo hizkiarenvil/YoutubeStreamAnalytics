@@ -1,4 +1,4 @@
-# YoutubeStreamAnalytics
+### YoutubeStreamAnalytics
 
 Welcome to the YoutubeStreamAnalytics repository! This project dives into the fascinating world of real-time data analytics with a specific focus on YouTube video performance metrics. Leveraging the YouTube API, Apache Kafka, and other cutting-edge data engineering technologies, YoutubeStreamAnalytics offers insights into video likes, views, comments, and more, all in real-time.
 
