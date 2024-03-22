@@ -18,9 +18,12 @@ YoutubeStreamAnalytics is an advanced data pipeline that extracts YouTube video 
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.10(minimum)
 - Apache Kafka
-- YouTube API Key
+- GCP Youtube API key
+- Telegram API
+- Docker
+- Confluent Containers (Zookeeper, Kafka, Schema Registry, Connect, ksqlDB, Control Center)
 
 ### Setup and Installation
 
@@ -28,3 +31,5 @@ YoutubeStreamAnalytics is an advanced data pipeline that extracts YouTube video 
 
 ```sh
 git clone https://github.com/hizkiarenvil/YoutubeStreamAnalytics.git
+
+
