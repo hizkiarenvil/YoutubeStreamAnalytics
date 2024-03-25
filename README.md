@@ -20,6 +20,7 @@ YoutubeStreamAnalytics is an advanced data pipeline that extracts YouTube video 
 
 ## Getting Started
 
+
 ### Prerequisites
 
 - Python 3.10(minimum)
