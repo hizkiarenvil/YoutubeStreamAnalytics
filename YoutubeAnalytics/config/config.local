@@ -1,3 +1,4 @@
 [youtube]
+# Change the API KEY with your own KEY
 API_KEY='Your API KEY'
 PLAYLIST_ID='Your Playlist_ID
