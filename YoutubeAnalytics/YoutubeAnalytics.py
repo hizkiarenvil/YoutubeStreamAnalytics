@@ -7,7 +7,6 @@ import requests
 # Importing constants from constants.py
 from constants import YOUTUBE_API_KEY, PLAYLIST_ID
 
-
 # Function to fetch a single page of data from the YouTube API 
 def fetch_page(url, parameters, page_token=None):
     """
